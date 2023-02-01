@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  inMovieDB
-//
-//  Created by Filipe Wolf Boeck on 31/01/23.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
